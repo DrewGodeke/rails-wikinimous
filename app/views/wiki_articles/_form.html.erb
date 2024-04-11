@@ -1,0 +1,27 @@
+<%= form_with(model: wiki_article) do |form| %>
+  <% if wiki_article.errors.any? %>
+    <div style="color: red">
+      <h2><%= pluralize(wiki_article.errors.count, "error") %> prohibited this wiki_article from being saved:</h2>
+
+      <ul>
+        <% wiki_article.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div>
+    <%= form.label :title, style: "display: block" %>
+    <%= form.text_field :title %>
+  </div>
+
+  <div>
+    <%= form.label :content, style: "display: block" %>
+    <%= form.text_area :content %>
+  </div>
+
+  <div>
+    <%= form.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,67 @@
+=> 
+[[32m#<Article:0x00007f45ff2c3200[0m
+  id: [34m[1m1[0m,
+  title: [31m[1m"[0m[31mThe meaning of life[0m[31m[1m"[0m,
+  content: [31m[1m"[0m[31mIt's 42![0m[31m[1m"[0m,
+  created_at: Thu, 11 Apr 2024 21:20:06.385980000 UTC +00:00,
+  updated_at: Thu, 11 Apr 2024 21:20:06.385980000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007f46003b94d8[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mDoloribus dolorem quae.[0m[31m[1m"[0m,
+  content: [31m[1m"[0m[31mSoluta pariatur aut. Nobis qui dicta. Officia eum atque. Vero ullam praesentium. Alias natus sit.[0m[31m[1m"[0m,
+  created_at: Thu, 11 Apr 2024 21:30:52.806815000 UTC +00:00,
+  updated_at: Thu, 11 Apr 2024 21:30:52.806815000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007f46003b8420[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mSit incidunt laboriosam.[0m[31m[1m"[0m,
+  content: [31m[1m"[0m[31mIn hic quis. Voluptate amet in. Fuga blanditiis laborum. Ad quia non. Voluptatem possimus sint.[0m[31m[1m"[0m,
+  created_at: Thu, 11 Apr 2024 21:30:52.816275000 UTC +00:00,
+  updated_at: Thu, 11 Apr 2024 21:30:52.816275000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007f46003bfd60[0m
+  id: [34m[1m4[0m,
+  title: [31m[1m"[0m[31mNumquam possimus omnis.[0m[31m[1m"[0m,
+  content:
+   [31m[1m"[0m[31mRepudiandae odio alias. Eos placeat at. Voluptatibus voluptatum accusantium. Deleniti non molestiae. Ipsa ex quis.[0m[31m[1m"[0m,
+  created_at: Thu, 11 Apr 2024 21:30:52.818421000 UTC +00:00,
+  updated_at: Thu, 11 Apr 2024 21:30:52.818421000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007f46003bf568[0m
+  id: [34m[1m5[0m,
+  title: [31m[1m"[0m[31mOmnis eligendi est.[0m[31m[1m"[0m,
+  content: [31m[1m"[0m[31mQuaerat aut beatae. Ipsam perspiciatis ut. Quis totam enim. Quae atque quas. Atque et magnam.[0m[31m[1m"[0m,
+  created_at: Thu, 11 Apr 2024 21:30:52.820426000 UTC +00:00,
+  updated_at: Thu, 11 Apr 2024 21:30:52.820426000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007f46003bf108[0m
+  id: [34m[1m6[0m,
+  title: [31m[1m"[0m[31mEsse aperiam quos.[0m[31m[1m"[0m,
+  content: [31m[1m"[0m[31mEveniet rerum non. Aut necessitatibus ex. Non nisi sit. Sequi in dolor. Delectus quidem rerum.[0m[31m[1m"[0m,
+  created_at: Thu, 11 Apr 2024 21:30:52.822158000 UTC +00:00,
+  updated_at: Thu, 11 Apr 2024 21:30:52.822158000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007f46003be528[0m
+  id: [34m[1m7[0m,
+  title: [31m[1m"[0m[31mVoluptate ea eum.[0m[31m[1m"[0m,
+  content:
+   [31m[1m"[0m[31mQuisquam beatae labore. Unde nulla quisquam. Rerum dolor nam. Dolores possimus impedit. Accusamus cumque facilis.[0m[31m[1m"[0m,
+  created_at: Thu, 11 Apr 2024 21:30:52.823749000 UTC +00:00,
+  updated_at: Thu, 11 Apr 2024 21:30:52.823749000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007f46003c1458[0m
+  id: [34m[1m8[0m,
+  title: [31m[1m"[0m[31mOdit magni atque.[0m[31m[1m"[0m,
+  content:
+   [31m[1m"[0m[31mLabore voluptatem nihil. Distinctio aliquid rerum. Aut eligendi dolorem. Consequatur minus dicta. Aliquid dolore illum.[0m[31m[1m"[0m,
+  created_at: Thu, 11 Apr 2024 21:30:52.825192000 UTC +00:00,
+  updated_at: Thu, 11 Apr 2024 21:30:52.825192000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007f46003c00a8[0m
+  id: [34m[1m9[0m,
+  title: [31m[1m"[0m[31mQuam incidunt non.[0m[31m[1m"[0m,
+  content:
+   [31m[1m"[0m[31mLaudantium exercitationem maxime. Modi ipsum id. Consequatur perferendis eum. Ad eligendi ea. Reprehenderit deleniti et.[0m[31m[1m"[0m,
+  created_at: Thu, 11 Apr 2024 21:30:52.826475000 UTC +00:00,
+  updated_at: Thu, 11 Apr 2024 21:30:52.826475000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007f46003c7920[0m
+  id: [34m[1m10[0m,
+  title: [31m[1m"[0m[31mDolores nobis quas.[0m[31m[1m"[0m,
+  content:
+   [31m[1m"[0m[31mFuga quibusdam omnis. Quis dolorem cumque. Atque temporibus quis. Dolorum in velit. Perferendis rerum mollitia.[0m[31m[1m"[0m,
+  created_at: Thu, 11 Apr 2024 21:30:52.827850000 UTC +00:00,
+  updated_at: Thu, 11 Apr 2024 21:30:52.827850000 UTC +00:00[32m>[0m,
+ [31m[1m"[0m[31m...[0m[31m[1m"[0m]
