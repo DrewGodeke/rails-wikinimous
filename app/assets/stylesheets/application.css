@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+ .navbar-nav .nav-item {
+  margin-left: auto; /* Pushes the "New wiki article" link to the right */
+}
+.title-link {
+  color: #337ab7;
+  /* Add any other styles you want for the title link */
+}
+.title-link {
+  text-decoration: none; /* Remove underline from article title links */
+}
+.centered-content {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: flex-start; /* Align content to the top */
+  min-height: 100vh; /* Ensure full height */
+}
+
+.container {
+  text-align: left; /* Align content inside container to the left */
+  max-width: 960px; /* Limit container width */
+  padding: 0 15px; /* Add padding to the sides */
+}

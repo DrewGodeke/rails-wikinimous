@@ -1,14 +1,34 @@
-<p style="color: green"><%= notice %></p>
-
-<h1>Wiki articles</h1>
-
-<div id="wiki_articles">
-  <% @wiki_articles.each do |wiki_article| %>
-    <%= render wiki_article %>
-    <p>
-      <%= link_to "Show this wiki article", wiki_article %>
-    </p>
-  <% end %>
-</div>
-
-<%= link_to "New wiki article", new_wiki_article_path %>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wiki Articles</title>
+  <!-- Add any necessary stylesheets or meta tags here -->
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light px-3">
+    <a class="navbar-brand" href="#">Wikinimous</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto"> <!-- Changed mr-auto to ml-auto -->
+        <li class="nav-item">
+          <!-- "New wiki article" link inside the navbar -->
+          <%= link_to "New Article", new_wiki_article_path, class: "nav-link" %>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class="centered-content">
+    <div class="container">
+      <p style="color: green"><%= notice %></p>
+      <div id="wiki_articles">
+        <% @wiki_articles.each do |wiki_article| %>
+          <%= render wiki_article %>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
